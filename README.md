@@ -132,7 +132,6 @@ Daftar referensi tautan-tautan berguna untuk mempelajari tentang Jaringan, Pemro
 
 - [https://graylife.co/](https://graylife.co/)
 - [https://noobsec.org/](https://noobsec.org/)
-- [https://blog.compactbyte.com/](https://blog.compactbyte.com/)
 
 #### English
 
